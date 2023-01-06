@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Feb 2022 16:04:06 -0500</lastBuildDate><atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>随笔漫记</title>
+      <link>http://example.com/projects/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/projects/photography/</guid>
+      <description> 有时会拍一些照片 </description>
+    </item>
+    
+    <item>
+      <title>花卉</title>
+      <link>http://example.com/projects/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/projects/design/</guid>
+      <description>平凡的绿叶使我感悟到:即使不能做一朵流芳溢彩的鲜花,做一片纯净高尚的绿叶又何乐而不为呢</description>
+    </item>
+    
+    <item>
+      <title>写作</title>
+      <link>http://example.com/projects/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/projects/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>告白音频</title>
+      <link>http://example.com/blog/multi-author/</link>
+      <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
+      
+      <guid>http://example.com/blog/multi-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>蜂鸟演唱会视频</title>
+      <link>http://example.com/blog/multi-author-copy/</link>
+      <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
+      
+      <guid>http://example.com/blog/multi-author-copy/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

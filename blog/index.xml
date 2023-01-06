@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>发布内容 on Introduction</title>
+    <link>http://example.com/blog/</link>
+    <description>Recent content in 发布内容 on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Feb 2022 16:04:06 -0500</lastBuildDate><atom:link href="http://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>告白音频</title>
+      <link>http://example.com/blog/multi-author/</link>
+      <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
+      
+      <guid>http://example.com/blog/multi-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>蜂鸟演唱会视频</title>
+      <link>http://example.com/blog/multi-author-copy/</link>
+      <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
+      
+      <guid>http://example.com/blog/multi-author-copy/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
